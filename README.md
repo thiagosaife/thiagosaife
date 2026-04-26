@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thiago
+# 👋 Hi, I'm Thiago Saife
 
 I’m a software engineer who builds performant, scalable, and well-structured web applications — with a strong focus on frontend architecture and user experience.
 
@@ -9,6 +9,7 @@ I care about writing code that **lasts**, not just code that works.
 ## 🚀 About Me
 
 * 💻 Frontend specialist with deep experience in **Vue.js (Vue 2 & Vue 3)**
+* 🎓 Currently pursuing an MS in Artificial Intelligence at the University of Colorado Boulder (Expected graduation: 2028), with a focus on Machine Learning (ML)
 * 🧠 Strong problem-solver with a growing focus on **algorithms and system design**
 * 🛠️ I favor **clean, dependency-light solutions** over unnecessary abstractions
 * 🔄 Experienced in **refactoring complex applications** and improving code quality
