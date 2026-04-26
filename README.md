@@ -54,7 +54,7 @@ I care about writing code that **lasts**, not just code that works.
 ## 🧩 Highlighted Work
 
 * 🔧 Built complex **drag-and-drop hierarchical UIs** with ordered insertion and multi-selection
-* 🌍 Implemented **i18n and locale-aware systems** across multiple regions
+* 🌍 Led the implementation of **i18n and locale-aware systems** across multiple regions for a large-scale US retail platform, enabling consistent localization and scalable international growth
 * ⚡ Optimized large lists with **virtual scrolling and efficient state handling**
 * 🔄 Led migrations from **Vue 2 → Vue 3 (Composition API)**
 * 🧪 Strengthened test reliability with **Cypress E2E strategies**
