@@ -4,6 +4,8 @@ I’m a software engineer who builds performant, scalable, and well-structured w
 
 I care about writing code that **lasts**, not just code that works.
 
+[work_log] (https://thiagosaife.github.io/code-pharmacy)
+
 ---
 
 ## 🚀 About Me
