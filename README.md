@@ -1,6 +1,6 @@
 # Thiago Saife
 
-I’m a software engineer who builds performant, scalable, and well-structured web applications — with a strong focus on frontend architecture and user experience.
+I’m a software engineer who builds, maintains and fix performant, scalable, and well-structured web applications — with a strong focus on frontend architecture and user experience.
 
 Experimenting AI Tools. Figured out that AI Engineering is not that simple. Getting there.
 
