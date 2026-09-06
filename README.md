@@ -58,7 +58,7 @@ Experimenting AI Tools. Figured out that AI Engineering is not that simple. Gett
 
 ## Currently Leveling Up
 
-* AI **AI Engineering**
+* **AI Engineering**
 * Advanced **data structures & algorithms**
 * Frontend-oriented **system design**
 * Scalable patterns for **state and data flow**
